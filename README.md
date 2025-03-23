@@ -3,18 +3,6 @@
 
 A deep learning-based project for classifying plant species using CNN, ResNet50, and InceptionV3. Developed as part of DS 677 - Deep Learning coursework at NJIT.
 
-## 👥 Team Members
-- Harshith Gade (hg355)
-- Sai Nikhil Dunuka (sd2279)
-- Durgaprasad Gudisinti (gd299)
-- Yaswanth Reddy Bushireddy (byr3)
-
-## 📂 Project Structure
-
-- `notebooks/`: Contains the training and evaluation code.
-- `report/`: Contains the final report of the project.
-- `presentation/`: Contains the final presentation slides.
-
 ## 🔍 Dataset
 Dataset used: [Plant Classification Dataset on Kaggle](https://www.kaggle.com/datasets/marquis03/plants-classification/data)
 
