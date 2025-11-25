@@ -22,10 +22,6 @@ Dataset used: [Plant Classification Dataset on Kaggle](https://www.kaggle.com/da
 - InceptionV3 Accuracy: ~87.5%
 - Custom CNN Accuracy: ~80.5%
 
-## 📄 Documentation
-- [Final Report (PDF)](./report/DS677005_Group_2_report.pdf)
-- [Presentation (PPT)](./presentation/Group_2_Plants_Classification.pptx)
-
 ## 📎 Colab Link
 [🔗 Click to Open Notebook on Google Colab](https://colab.research.google.com/drive/1GF495Q5ylxeqI8QSIcszSjPuASTwWoG3)
 
